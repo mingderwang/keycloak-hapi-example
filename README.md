@@ -1,4 +1,5 @@
 #Basic NodeJS Example
+* need to upgrade to use hapi 17
 
 
 ##Start and configure Keycloak
